@@ -9,3 +9,4 @@
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@jigarpatel7600) 
 
 
+[![](https://visitcount.itsvg.in/api?id=Galleonsoft&label=Profile%20Views&color=4&icon=6&pretty=false)](https://visitcount.itsvg.in)
